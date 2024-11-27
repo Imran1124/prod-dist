@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:dist/assets/pencil-B9pW0s7O.js
 import{c as e}from"./index-7XDXaKKu.js";/**
-========
-import{c as e}from"./index-DQGuf2o5.js";/**
->>>>>>>> 624df5638af329556fde466b468c0264d7c2e3de:dist/assets/pencil-DgyxTHcy.js
  * @license lucide-react v0.378.0 - ISC
  *
  * This source code is licensed under the ISC license.

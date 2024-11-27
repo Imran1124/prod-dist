@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:dist/assets/index-SS1YGn5N.js
 import{c as f,j as a,D as t,F as N,a5 as p}from"./index-7XDXaKKu.js";import{r as d}from"./router-Bu5b4_LN.js";import{S as g,a as v,b as y,c as P,e as b}from"./select-BzjFIod1.js";/**
-========
-import{c as f,j as a,D as t,F as N,a5 as p}from"./index-DQGuf2o5.js";import{r as d}from"./router-Bu5b4_LN.js";import{S as g,a as v,b as y,c as P,e as b}from"./select-C2lE2IL4.js";/**
->>>>>>>> 624df5638af329556fde466b468c0264d7c2e3de:dist/assets/index-CQrb0uz1.js
  * @license lucide-react v0.378.0 - ISC
  *
  * This source code is licensed under the ISC license.
